@@ -1,9 +1,0 @@
-wordpressUsername: admin
-wordpressPassword: adminpassword
-wordpressEmail: admin@example.com
-
-mysqlRootPassword: rootpassword
-mysqlDatabase: wordpress
-mysqlUser: wordpress
-mysqlPassword: wordpresspassword
-mysqlServiceName: mysql-service
