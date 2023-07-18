@@ -2,10 +2,23 @@ apiVersion: v1
 entries:
   wordpress:
   - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-18T22:00:41.437150315Z"
+    description: A Helm chart for wordpress deployment
+    digest: e3dfac0da89b8b3e16d99ea1b9bbb7f0e549759181ee276beb87ca8c79a3dbfe
+    maintainers:
+    - email: majid0karimi@gmail.com
+      name: Majid Karimi
+    name: wordpress
+    type: application
+    urls:
+    - https://github.com/Majid-dev/wordpress-chart-argocd/releases/download/wordpress-1.0.2/wordpress-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
     created: "2023-07-18T21:29:56.356975341Z"
     digest: 0ef94a6d753664523075c12d34bb86ea6155f5a8ef56b749fcfe9c5c87f58437
     name: wordpress
     urls:
     - https://github.com/Majid-dev/wordpress-chart-argocd/releases/download/wordpress-1.0.1/wordpress-1.0.1.tgz
     version: 1.0.1
-generated: "2023-07-18T21:29:56.356981641Z"
+generated: "2023-07-18T22:00:41.437171315Z"
